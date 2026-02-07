@@ -1,5 +1,5 @@
-import logo from "./assets/logo.png";
-import hero from "./assets/hero.png";
+import amazon from "./image/amazon.jpg";
+import hero from "./image/hero-image.png";
 
 
 const HeroSection = () => {
