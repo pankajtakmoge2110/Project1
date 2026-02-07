@@ -1,6 +1,6 @@
 import amazon from "./image/amazon.jpg";
 import hero from "./image/hero-image.png";
-
+import flipkart from "./image/flipkart.jpg";
 
 const HeroSection = () => {
   return (
