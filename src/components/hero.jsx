@@ -18,13 +18,13 @@ const HeroSection = () => {
           <p>Also Available On</p>
 
           <div className="brand-icons">
-            <img src="/public/images/amazon.jpg" alt="amazon-logo" />
-            <img src="/public/images/flipkart.png" alt="flipkart-logo" />
+            <img src="/images/amazon.jpg" alt="amazon-logo" />
+            <img src="/images/flipkart.png" alt="flipkart-logo" />
           </div>
         </div>
       </div>
       <div className="hero-image">
-        <img src="/public/images/hero-image.png" alt="hero-image" />
+        <img src="/images/hero-image.png" alt="hero-image" />
       </div>
     </main>
   );
