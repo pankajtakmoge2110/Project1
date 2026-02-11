@@ -1,6 +1,4 @@
-import amazon from "./image/amazon.jpg";
-import hero from "./image/hero-image.jpg";
-import flipkart from "./image/flipkart.jpg";
+
 
 const HeroSection = () => {
   return (
@@ -22,14 +20,15 @@ const HeroSection = () => {
           <p>Also Available On</p>
 
           <div className="brand-icons">
-            <img src={amazon} alt="amazon" />
-            <img src={flipkart} alt="filpkart" />
+           <img src="/public/images/amazon.jpg" alt="amazon" />
+           <img src="/public/images/flipkart.jpg" alt="flipkart" />
+           
 
           </div>
         </div>
       </div>
       <div className="hero-image">
-        <img src={hero} alt="hero-image" />
+        <img src="/public/images/hero-image.jpg" alt="hero-image" />
       </div>
     </main>
   );
